@@ -2,7 +2,7 @@
   "name": "nlf-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NlfCollegeMinistry.github.io/public",
+  "homepage": "https://NlfCollegeMinistry.github.io/nlf-website",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
